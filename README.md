@@ -1,5 +1,5 @@
 
-# NEW-Business-Intelligence-Agent Fixed: Switched AI backend from Gemini to Groq (Llama 3.3 70B) for faster, more reliable free-tier access.
+# NEW-Business-Intelligence-Agent----->Fixed: Switched AI backend from Gemini to Groq (Llama 3.3 70B) for faster, more reliable free-tier access.
 📊 BI Agent
 
 ## Overview
